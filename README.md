@@ -1,5 +1,10 @@
 # quarkus-logger-handler-bug Project
 
+Repro for https://github.com/quarkusio/quarkus/issues/23361
+
+
+-------------------
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
